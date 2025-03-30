@@ -71,6 +71,9 @@ O mercado imobiliário de King County necessitava de um sistema preciso para pre
    - Vista
    - Amenidades
 
+
+![alt text](image-1.png)
+
 ## 💡 Conclusões Principais
 - Modelo alcançou alta precisão na predição de preços
 - Identificação clara dos principais feautures
