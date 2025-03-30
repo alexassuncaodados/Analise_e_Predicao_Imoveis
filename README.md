@@ -1,4 +1,5 @@
 # 🏠 Predição de Preços de Imóveis - King County, USA
+![alt text](image.png)
 
 ## 📊 Visão Geral do Projeto
 Desenvolvimento de um modelo preditivo para preços de imóveis utilizando dados do condado de King, USA, aplicando técnicas avançadas de análise exploratória e machine learning.
