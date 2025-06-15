@@ -3,7 +3,6 @@
 Este diretório contém a aplicação do dashboard desenvolvida com Streamlit para análise do mercado imobiliário.
 
 
-
 ## Principais Funcionalidades
 
 ### 1. Visão Geral (📊)
@@ -11,16 +10,19 @@ Este diretório contém a aplicação do dashboard desenvolvida com Streamlit pa
 - Análises temporais de vendas
 - Distribuição de preços por características do imóvel
 - Estatísticas de mercado
-
+![alt text](image-2.png)
 ### 2. Análise Geográfica (🗺️)
 - Mapa de calor de preços
 - Distribuição geográfica dos imóveis
 - Análises por região
+![alt text](image-3.png)
+!
 
 ### 3. Análise Detalhada (📈)
 - Correlações entre variáveis
 - Tendências de mercado
 - Análises específicas por características do imóvel
+![alt text](image-4.png)
 
 ## Filtros Disponíveis
 

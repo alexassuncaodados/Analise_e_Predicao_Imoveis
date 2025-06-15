@@ -15,9 +15,12 @@ O mercado imobiliário de King County necessitava de um sistema preciso para pre
 
 ## 💻 Notebook's
 
-[Análise Exploratória dos Dados](https://github.com/alexassuncaodados/House_Sales_Predict/blob/main/01-EDA.ipynb)
+[Análise Exploratória dos Dados](https://github.com/alexassuncaodados/Analise_e_Predicao_Imoveis/blob/main/notebooks/01-EDA.ipynb)
 
-[Modelo de Machine Learning](https://github.com/alexassuncaodados/House_Sales_Predict/blob/main/02-Modelo.ipynb)
+[Modelo de Machine Learning](https://github.com/alexassuncaodados/Analise_e_Predicao_Imoveis/blob/main/notebooks/02-Modelo.ipynb)
+
+## 📊 Dashboard
+[Dashboard de Análise Imobiliária](https://github.com/alexassuncaodados/Analise_e_Predicao_Imoveis/tree/main/src/dashboard)
 
 ### Ação
 #### 1. Análise Exploratória (EDA)
