@@ -53,6 +53,9 @@ O mercado imobiliário de King County necessitava de um sistema preciso para pre
 - XGBoost
 - Folium
 - Kaggle API
+- Streamlit
+- Plotly
+- Bayesian Optimization
 
 
 
