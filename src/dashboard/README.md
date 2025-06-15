@@ -54,22 +54,11 @@ pip install -r requirements.txt
 ```bash
 streamlit run src/dashboard/app.py
 ```
-
-3. Acesse o dashboard através do navegador (normalmente em http://localhost:8501)
-
 ## Estrutura de Dados
 
-O dashboard utiliza o arquivo `kc_house_data.csv` localizado na raiz do projeto e realiza as seguintes transformações nos dados:
-
 - Conversão de datas
-- Cálculo de métricas derivadas (preço por pé quadrado, idade do imóvel, etc.)
+- Cálculo de métricas derivadas (preço por mt quadrado, idade do imóvel, etc.)
 - Categorização de preços
 - Cálculos de métricas sazonais
 
-## Customização
 
-O dashboard inclui estilos CSS personalizados para melhorar a experiência do usuário e a apresentação visual dos dados. As personalizações incluem:
-- Cards de métricas estilizados
-- Fontes personalizadas
-- Layout responsivo
-- Esquema de cores consistente
